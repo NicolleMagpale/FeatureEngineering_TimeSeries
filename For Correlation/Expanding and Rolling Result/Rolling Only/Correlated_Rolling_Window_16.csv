@@ -1,0 +1,249 @@
+0
+statusN
+statusS
+tempC
+windspeedMiles
+precipMM
+humidity
+visibility
+pressure
+cloudcover
+heatIndexC
+dewPointC
+windChillC
+windGustMiles
+feelsLikeC
+statusN_Rmean=2
+statusS_Rmean=2
+statusN_Rmean=3
+statusS_Rmean=3
+statusN_Rmean=4
+statusS_Rmean=4
+statusN_Rmean=8
+statusS_Rmean=8
+statusN_Rmean=12
+statusS_Rmean=12
+statusN_Rmean=24
+statusS_Rmean=24
+statusN_Rmean=32
+statusS_Rmean=32
+statusN_Rmean=48
+statusS_Rmean=48
+statusN_Rmean=96
+statusS_Rmean=96
+tempC_Rmean=2
+windspeedMiles_Rmean=2
+precipMM_Rmean=2
+humidity_Rmean=2
+visibility_Rmean=2
+pressure_Rmean=2
+cloudcover_Rmean=2
+heatIndexC_Rmean=2
+dewPointC_Rmean=2
+windChillC_Rmean=2
+windGustMiles_Rmean=2
+feelsLikeC_Rmean=2
+tempC_Rmean=3
+windspeedMiles_Rmean=3
+precipMM_Rmean=3
+humidity_Rmean=3
+visibility_Rmean=3
+pressure_Rmean=3
+cloudcover_Rmean=3
+heatIndexC_Rmean=3
+dewPointC_Rmean=3
+windChillC_Rmean=3
+windGustMiles_Rmean=3
+feelsLikeC_Rmean=3
+tempC_Rmean=4
+windspeedMiles_Rmean=4
+precipMM_Rmean=4
+humidity_Rmean=4
+visibility_Rmean=4
+pressure_Rmean=4
+cloudcover_Rmean=4
+heatIndexC_Rmean=4
+dewPointC_Rmean=4
+windChillC_Rmean=4
+windGustMiles_Rmean=4
+feelsLikeC_Rmean=4
+tempC_Rmean=8
+windspeedMiles_Rmean=8
+precipMM_Rmean=8
+humidity_Rmean=8
+visibility_Rmean=8
+pressure_Rmean=8
+cloudcover_Rmean=8
+heatIndexC_Rmean=8
+dewPointC_Rmean=8
+windChillC_Rmean=8
+windGustMiles_Rmean=8
+feelsLikeC_Rmean=8
+tempC_Rmean=12
+windspeedMiles_Rmean=12
+precipMM_Rmean=12
+humidity_Rmean=12
+visibility_Rmean=12
+pressure_Rmean=12
+cloudcover_Rmean=12
+heatIndexC_Rmean=12
+dewPointC_Rmean=12
+windChillC_Rmean=12
+windGustMiles_Rmean=12
+feelsLikeC_Rmean=12
+tempC_Rmean=24
+windspeedMiles_Rmean=24
+precipMM_Rmean=24
+humidity_Rmean=24
+visibility_Rmean=24
+pressure_Rmean=24
+cloudcover_Rmean=24
+heatIndexC_Rmean=24
+dewPointC_Rmean=24
+windChillC_Rmean=24
+windGustMiles_Rmean=24
+feelsLikeC_Rmean=24
+tempC_Rmean=32
+windspeedMiles_Rmean=32
+precipMM_Rmean=32
+humidity_Rmean=32
+visibility_Rmean=32
+pressure_Rmean=32
+cloudcover_Rmean=32
+heatIndexC_Rmean=32
+dewPointC_Rmean=32
+windChillC_Rmean=32
+windGustMiles_Rmean=32
+feelsLikeC_Rmean=32
+tempC_Rmean=48
+windspeedMiles_Rmean=48
+precipMM_Rmean=48
+humidity_Rmean=48
+visibility_Rmean=48
+pressure_Rmean=48
+cloudcover_Rmean=48
+heatIndexC_Rmean=48
+dewPointC_Rmean=48
+windChillC_Rmean=48
+windGustMiles_Rmean=48
+feelsLikeC_Rmean=48
+tempC_Rmean=96
+windspeedMiles_Rmean=96
+precipMM_Rmean=96
+humidity_Rmean=96
+visibility_Rmean=96
+pressure_Rmean=96
+cloudcover_Rmean=96
+heatIndexC_Rmean=96
+dewPointC_Rmean=96
+windChillC_Rmean=96
+windGustMiles_Rmean=96
+feelsLikeC_Rmean=96
+Expanding Mean 2 statusN
+Expanding Mean 3 statusN
+Expanding Mean 4 statusN
+Expanding Mean 8 statusN
+Expanding Mean 12 statusN
+Expanding Mean 16 statusN
+Expanding Mean 24 statusN
+Expanding Mean 48 statusN
+Expanding Mean 96 statusN
+Expanding Mean 2 statusS
+Expanding Mean 3 statusS
+Expanding Mean 4 statusS
+Expanding Mean 8 statusS
+Expanding Mean 12 statusS
+Expanding Mean 16 statusS
+Expanding Mean 24 statusS
+Expanding Mean 48 statusS
+Expanding Mean 96 statusS
+Expanding Mean 2 tempC
+Expanding Mean 3 tempC
+Expanding Mean 4 tempC
+Expanding Mean 8 tempC
+Expanding Mean 12 tempC
+Expanding Mean 16 tempC
+Expanding Mean 24 tempC
+Expanding Mean 48 tempC
+Expanding Mean 96 tempC
+Expanding Mean 2 windspeedMiles
+Expanding Mean 3 windspeedMiles
+Expanding Mean 4 windspeedMiles
+Expanding Mean 8 windspeedMiles
+Expanding Mean 12 windspeedMiles
+Expanding Mean 16 windspeedMiles
+Expanding Mean 24 windspeedMiles
+Expanding Mean 48 windspeedMiles
+Expanding Mean 96 windspeedMiles
+Expanding Mean 2 precipMM
+Expanding Mean 3 precipMM
+Expanding Mean 4 precipMM
+Expanding Mean 8 precipMM
+Expanding Mean 12 precipMM
+Expanding Mean 16 precipMM
+Expanding Mean 24 precipMM
+Expanding Mean 48 precipMM
+Expanding Mean 96 precipMM
+Expanding Mean 2 humidity
+Expanding Mean 3 humidity
+Expanding Mean 4 humidity
+Expanding Mean 8 humidity
+Expanding Mean 12 humidity
+Expanding Mean 16 humidity
+Expanding Mean 24 humidity
+Expanding Mean 48 humidity
+Expanding Mean 96 humidity
+Expanding Mean 2 visibility
+Expanding Mean 3 visibility
+Expanding Mean 4 visibility
+Expanding Mean 8 visibility
+Expanding Mean 12 visibility
+Expanding Mean 16 visibility
+Expanding Mean 24 visibility
+Expanding Mean 48 visibility
+Expanding Mean 96 visibility
+Expanding Mean 2 pressure
+Expanding Mean 3 pressure
+Expanding Mean 4 pressure
+Expanding Mean 8 pressure
+Expanding Mean 12 pressure
+Expanding Mean 16 pressure
+Expanding Mean 24 pressure
+Expanding Mean 48 pressure
+Expanding Mean 96 pressure
+Expanding Mean 2 cloudcover
+Expanding Mean 3 cloudcover
+Expanding Mean 4 cloudcover
+Expanding Mean 8 cloudcover
+Expanding Mean 12 cloudcover
+Expanding Mean 16 cloudcover
+Expanding Mean 24 cloudcover
+Expanding Mean 48 cloudcover
+Expanding Mean 96 cloudcover
+Expanding Mean 2 heatIndexC
+Expanding Mean 3 heatIndexC
+Expanding Mean 4 heatIndexC
+Expanding Mean 8 heatIndexC
+Expanding Mean 12 heatIndexC
+Expanding Mean 16 heatIndexC
+Expanding Mean 24 heatIndexC
+Expanding Mean 48 heatIndexC
+Expanding Mean 96 heatIndexC
+Expanding Mean 2 dewPointC
+Expanding Mean 3 dewPointC
+Expanding Mean 4 dewPointC
+Expanding Mean 8 dewPointC
+Expanding Mean 12 dewPointC
+Expanding Mean 16 dewPointC
+Expanding Mean 24 dewPointC
+Expanding Mean 48 dewPointC
+Expanding Mean 96 dewPointC
+Expanding Mean 2 windChillC
+Expanding Mean 3 windChillC
+Expanding Mean 4 windChillC
+Expanding Mean 8 windChillC
+Expanding Mean 12 windChillC
+Expanding Mean 16 windChillC
+Expanding Mean 24 windChillC
+Expanding Mean 48 windChillC
+Expanding Mean 96 windChillC
